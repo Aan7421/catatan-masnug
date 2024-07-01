@@ -5,7 +5,12 @@
 # Halo semuanya! 👋
 Selamat datang di catatan masnug
 
-- [!] **Website apa ini:** ini adalah website dimana isinya semua catatan yang gua punya. Biar pemilik catatan ini bisa akses dimana saja dan kapan saja. Buat yang lain juga boleh kok mampir-mampir.
+**Website apa ini:** ini adalah website dimana isinya semua catatan yang gua punya. Biar pemilik catatan ini bisa akses dimana saja dan kapan saja. Buat yang lain juga boleh kok mampir-mampir.
+
+```ad-warning
+Website ini sedang masa pengembangan
+
+```
 
 # Table of content
 
