@@ -96,6 +96,7 @@ PDB dihitung dengan menjumlahkan total pengeluaran barang dan jasa ekonomi. Term
   
 Rumus menghitung PDB dengan pendekatan pengeluaran:  
 ```ad-note
+title: Rumus
 GDP = C + I + G + (X - M)
 
 - C: Konsumsi rumah tangga
@@ -156,41 +157,7 @@ Produk Nasional Bruto (PNB) adalah <mark style="background: #FF5582A6;">total ni
 
 # D. Siklus Aliran Pendapatan/Circular Flow
   
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# 800
-
-</div>
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Text Elements
-PEMERINTAH 
-RUMAH TANGGA 
-PERUSAHAAN 
-DUNIA INTERNASIONAL 
-pembelian barang 
-dan jasa 
-Pajak 
-Gaji, Pembayaran Bunga, 
-Penghasilan atau pemberian 
-Non Balas Jasa 
-Pajak 
-Gaji, Upah Bunga, Deviden, Sewa 
-pembelian barang 
-dan jasa 
-impor 
-Ekspor 
-
-
-</div></div>
-
+![Pasted image 20240702102525.png|800](/img/user/2.RAW/Attachment/Pasted%20image%2020240702102525.png)
 
 Circular flow, atau aliran sirkuler, adalah konsep dalam ekonomi yang menggambarkan **arus berkelanjutan uang, barang, dan jasa** antara **rumah tangga** dan **perusahaan** dalam suatu perekonomian. bisa dibayangkan seperti lingkaran di mana uang mengalir ke satu arah dan barang dan jasa mengalir ke arah lain.
 
