@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-literature-notes/ekonomi/pendapatan-nasional/"}
+{"dg-publish":true,"permalink":"/4-literature-notes/ekonomi/pendapatan-nasional/","created":"2024-03-29 14:00"}
 ---
 
 # Pendapatan Nasional

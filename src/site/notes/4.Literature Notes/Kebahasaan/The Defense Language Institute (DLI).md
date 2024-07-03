@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-literature-notes/kebahasaan/the-defense-language-institute-dli/"}
+{"dg-publish":true,"permalink":"/4-literature-notes/kebahasaan/the-defense-language-institute-dli/","created":"2023-12-27 10:22"}
 ---
 
 # The Defense Language Institute (DLI)

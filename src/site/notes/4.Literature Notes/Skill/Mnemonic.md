@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-literature-notes/skill/mnemonic/"}
+{"dg-publish":true,"permalink":"/4-literature-notes/skill/mnemonic/","created":"2024-07-03 09:23"}
 ---
 
 # Apa itu Mnemonic
@@ -8,7 +8,7 @@
 
 Tanpa sadar kita telah menggunakan mnemonic ini ketika kita masih sd. Ingatlah kalian ketika kita disuruh menghapal satuan panjang (km,hm,dam,m,dm,cm,mm) kita merasa sangat kesulitan untuk menghapalkannya. Karena itulah guru kita manganjurkan kita untuk menghafal dengan merangkai kata dari satuan panjang tersebut menjadi:
 
-<mark style="background: #BBFABBA6;">"Kucing hitam dalam mobil, desi centil mondar-mandir."</mark>
+📌 **"Kucing hitam dalam mobil, desi centil mondar-mandir."**
 
 Lalu ingat huruf awalnya dan tambahkan huruf 'm' sesudahnya. (m berarti meter)
 
@@ -20,4 +20,4 @@ Desi (dm)
 Centil (cm)
 Mondar-mandir (mm)
 
-Nah diatas adalah contoh dari mnemonic. Mnemonik hadir dalam berbagai bentuk, Berikut adalah [[List of Mnemonic\|listnya]]
+Nah diatas adalah contoh dari mnemonic. Mnemonik hadir dalam berbagai bentuk, Berikut adalah [[4.Literature Notes/Skill/List of Mnemonic\|listnya]]
