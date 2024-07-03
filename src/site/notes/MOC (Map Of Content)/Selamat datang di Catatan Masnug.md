@@ -13,6 +13,3 @@ Selamat datang di catatan masnug
 <span title="sabar ya seng, lagi progress.">Progress</span> <meter min="0" max="100" low="59" high="90" optimum="90" value="20">20%</meter>
 
 <marquee>🏃‍♀️💨🚓🚓</marquee>
-
-
-
