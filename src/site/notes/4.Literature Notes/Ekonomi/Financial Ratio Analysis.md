@@ -19,11 +19,11 @@ Analisis rasio adalah cara yang sangat baik untuk membandingkan dua perusahaan y
 # Tipe Tipe Ratio Analysis
 Rasio keuangan perusahaan dapat dibagi menjadi empat kategori yang mengukur berbagai jenis metrik keuangan untuk sebuah bisnis: rasio likuiditas, rasio risiko operasional, rasio laba, dan rasio efisiensi.
 
-![Type Ratio Analysis.png|Tipe-tipe Ratio Analisis](/img/user/2.RAW/Attachment/Type%20Ratio%20Analysis.png)
+![Type Ratio Analysis.png|Tipe-tipe Ratio Analisis|800](/img/user/2.RAW/Attachment/Type%20Ratio%20Analysis.png)
 
 Kalau menurut Corporate Finance Ratio dalam bukunya berjudul *The Essential Ratios for Financial Analysis*, Rasio keuangan perusahaan dapat dibagi menjadi dua kategori utama dan empat subkategori:
 
-![Ratio analysis category.png|Kategori Ratio Analysis](/img/user/2.RAW/Attachment/Ratio%20analysis%20category.png)
+![Ratio analysis category.png|Kategori Ratio Analysis|800](/img/user/2.RAW/Attachment/Ratio%20analysis%20category.png)
 
 Kategori pertama adalah rasio kinerja **(performance ratios)**, yang <mark style="background: #FF5582A6;">memberikan wawasan tentang seberapa baik perusahaan tersebut berkinerja</mark>. Rasio-rasio ini memeriksa tingkat pengembalian, keuntungan, dan efisiensi penggunaan aset perusahaan.
 
