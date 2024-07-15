@@ -42,4 +42,3 @@ Buat tau ratio-ratio lainnya bisa cek dibawah ini sengg
 Sumber:
 - https://corporatefinanceinstitute.com/assets/financial-ratios-definitive-guide.pdf
 - https://corporatefinanceinstitute.com/assets/CFI-Financial-Ratios-Cheat-Sheet-eBook.pdf
-- 
