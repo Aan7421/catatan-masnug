@@ -9,7 +9,7 @@
 - [[4.Literature Notes/Ekonomi/Financial Ratio Analysis#Tipe Tipe Ratio Analysis\|Tipe Tipe Ratio Analysis]]
 
 # Apa itu Ratio Analysis
-Analisis rasio (ratio analysis) adalah metode yang digunakan untuk <mark style="background: #FF5582A6;">mengevaluasi kinerja keuangan sebuah perusahaan dengan **membandingkan angka-angka keuangan yang terdapat dalam laporan keuangan</mark>.** Analisis ini melibatkan perhitungan rasio-rasio tertentu yang membantu dalam memahami kekuatan, kelemahan, dan potensi perusahaan.
+Analisis rasio (ratio analysis) adalah metode yang digunakan untuk <mark style="background: #FF5582A6;">mengevaluasi kinerja keuangan sebuah perusahaan dengan membandingkan angka-angka keuangan yang terdapat dalam laporan keuangan</mark>. Analisis ini melibatkan perhitungan rasio-rasio tertentu yang membantu dalam memahami kekuatan, kelemahan, dan potensi perusahaan.
 
 Rasio keuangan perusahaan adalah ukuran kuantitatif yang digunakan untuk menilai bisnis. Rasio-rasio ini digunakan oleh analis keuangan, analis riset saham, investor, dan manajer aset untuk menilai kesehatan keuangan keseluruhan bisnis, dengan tujuan akhir untuk membuat keputusan investasi yang lebih baik. Rasio keuangan perusahaan juga banyak digunakan oleh manajer keuangan dan pejabat tinggi perusahaan (C-suite) untuk mendapatkan pemahaman yang lebih baik tentang kinerja bisnis mereka (CFA).
 
